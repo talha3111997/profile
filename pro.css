@@ -1,0 +1,35 @@
+#profile{
+    border-radius: 50%;
+    
+    background-image: url('zoom.jpg');
+    padding: 30px;
+      height: 250px;  
+width: 350px;
+    align-content: center;
+    object-fit: fill;
+       background-size:cover ; 
+    background-repeat: no-repeat;
+    float: right;
+}
+header{
+  background-image:  url('pexels.jpeg');  
+  
+height: 700px;
+    background-size: cover; 
+      
+}
+
+.heading{
+   color: white;
+  padding: 10px;
+   text-align: center;  
+
+    
+}
+hr{
+    border-style: inset;
+    border-width: 1px;
+    margin:20px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
